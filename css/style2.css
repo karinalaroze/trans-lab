@@ -1,0 +1,37 @@
+body{
+	background-color: #a9a9ab;
+}
+
+nav{
+	background-color: #3e3f41;
+}
+
+nav h2{
+	color:  #ffffff;
+	margin-left: 40%;
+	margin-top: -2%;
+}
+
+.fa-bars{
+	color: #ffffff;
+	margin-left: 2%;
+	margin-top: 3%;
+}
+
+.parteDos{
+	background-color: #a9a9ab;
+}
+
+.btn-default{
+	background-color: #f6a800;
+	width: 90%;
+	margin-left: 5%;
+	padding-top: 5%;
+	margin-top: 4%;
+	color: #ffffff;
+
+}
+
+.boton1{
+	margin-top: 50%;
+}
